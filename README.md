@@ -30,7 +30,7 @@ curl -fsSL https://raw.githubusercontent.com/HexaSoftwareDev/PingTunnel-Server/m
 if install command not working use this instead:
 ```bash
 curl -fsSL https://raw.githubusercontent.com/HexaSoftwareDev/PingTunnel-Server/main/installer.sh -o installer.sh
-
+5147ac3b-593a-4058-81b4-ae56f2880987
 sudo bash installer.sh
 ```
 
